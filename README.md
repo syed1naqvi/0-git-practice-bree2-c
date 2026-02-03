@@ -11,3 +11,8 @@ This article really clicked with me because it challenges a supper common instin
 ## Takeaway
 
 If I had to summarize the lesson: **simplicity + low coupling beats speculative abstraction**. Codebases stay healthier when they’re built to evolve through real feedback rather than predicted futures.
+
+## Outside Reflection (From Fork)
+I found the article that you chose as very interesting. Not many of us think about the future of our code and are very captivated with the present - we just want to get it working. However, becoming advanced enough in our thinking and skills can make it so that we develop our code in a manner in which our future can become easier by being more intentional with our code and its place in the future.
+
+\- *Syed Naqvi*
